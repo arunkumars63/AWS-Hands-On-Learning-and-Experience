@@ -9,3 +9,6 @@
 📈 Analytics and AI tools including Athena 🔍, Glue 🧪, Kinesis 🌊, EMR 🔥, QuickSight 📉, SageMaker 🤖, Rekognition 👁️, and Comprehend 🧠 enable big data, real-time streaming, and machine learning workloads.
 🚚 Migration services like DMS 🔄, DataSync 🔁, and Snowball 🧊 simplify data transfer, while Cost Explorer 💰 and Budgets 📉 help optimize cloud spend. 
 🔗 IoT offerings such as IoT Core 📡 and Greengrass 🌿 support secure device connectivity and edge computing.
+
+
+<img width="1457" height="401" alt="image" src="https://github.com/user-attachments/assets/2504ed6b-f0ca-465d-bb78-107b6962d341" />
