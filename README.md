@@ -11,4 +11,4 @@
 🔗 IoT offerings such as IoT Core 📡 and Greengrass 🌿 support secure device connectivity and edge computing.
 
 
-<img width="1457" height="401" alt="image" src="https://github.com/user-attachments/assets/2504ed6b-f0ca-465d-bb78-107b6962d341" />
+
